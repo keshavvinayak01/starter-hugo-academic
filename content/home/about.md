@@ -1,21 +1,12 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: Bio
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
+A graduate student interested in computer architecture, operating systems, and everything in between. 
+
+I am currently pursuing Masters in the [Department of Computer Science and Automation](https://www.csa.iisc.ac.in/) at [Indian Institute of Science](https://www.iisc.ac.in/), Bangalore, India. I mainly work in hardware accelerators, with a focus on GPUs,  and related areas with current interest being on exploring hardware and software techniques for helping build the next generation of computing. I am being advised by Prof. [Dr. Arkaprava Basu](https://www.csa.iisc.ac.in/~arkapravab/).
